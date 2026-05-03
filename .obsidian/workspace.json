@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "920d8b7716c49c35",
+    "type": "split",
+    "children": [
+      {
+        "id": "813635224b2b9188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0418d0218931da4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теми за държавен изпит КН 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Теми за държавен изпит КН 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93923addcc769434",
+    "type": "split",
+    "children": [
+      {
+        "id": "7622b085574728f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13b537f099659b71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f30182fd5a89d8d6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ac0c385179ad61bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39a2ecce0186c7e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1953f4678366abb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba34f5ef19a1da38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Теми за държавен изпит КН 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Теми за държавен изпит КН 2025"
+            }
+          },
+          {
+            "id": "3b0e48c8e60598b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Теми за държавен изпит КН 2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Теми за държавен изпит КН 2025"
+            }
+          },
+          {
+            "id": "c21406f80d9ecb9b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f654d36b407a086",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "866c03c07e14d22e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Теми за държавен изпит КН 2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Теми за държавен изпит КН 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "13b537f099659b71",
+  "lastOpenFiles": [
+    "Теми за държавен изпит КН 2025.md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Симетрични оператори в крайномерни евклидови пространства. Основни свойства. Теорема за диагонализация..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Симетрична и алтернативна група. Теорема на Кейли. Теорема за хомоморфизмите на групи..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Теорема на Ферма. Теореми за средните стойности (Рол, Лагранж и Коши). Формула на Тейлър..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Определен интеграл. Дефиниция и свойства. Интегруемост на непрекъснатите функции. Теорема на Нютон - Лайбниц..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Уравнения на права в равнината..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Уравнения на права и равнина в пространството..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Итерационни методи за решаване на нелинейни уравнения..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ/Дискретни разпределения. Равномерно, биномно, геометрично и Поасоново разпределение.  Моменти –математическо очакване и дисперсия..md",
+    "МАТЕМАТИКА И ПРИЛОЖЕНИЯ",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Архитектури на софтуерни системи..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Съвременни софтуерни технологии..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Изкуствен интелект. Пространство на състоянията – определение, характеристики на състоянията, търсене в пространство на състояния.md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Бази от данни. Нормални форми..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Бази от данни. Релационен модел на данните..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Изводимост и компютърно генериране на доказателства..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Синтаксис и семантика на предикатното смятане от първи ред..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Функционално програмиране. Списъци. Потоци и отложено оценяване..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Функционално програмиране. Обща характеристика на функционалния стил на програмиране. Функции от по-висок ред..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Структури от данни. Стек, опашка, списък, дърво. Основни операции върху тях. Реализация..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Обектно-ориентирано програмиране. Основни принципи. Класове и обекти. Наследяване и капсулация..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Обектно-ориентирано програмиране. Подтипов и параметричен полиморфизъм. Множествено наследяване..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Процедурно програмиране – указатели, масиви и рекурсия..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Процедурно програмиране – основни конструкции..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Компютърни мрежи и протоколи – OSI модел. Маршрутизация. Протоколи IPv4, IPv6, TCP, DNS..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Управление на процеси и междупроцесни комуникации..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ/Файлова система. Функции, структура и реализация..md",
+    "ЯДРО НА КОМПЮТЪРНИТЕ НАУКИ",
+    "ОСНОВИ НА КОМПЮТЪРНИТЕ НАУКИ"
+  ]
+}
